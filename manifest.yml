@@ -3,8 +3,8 @@
 # We have created a delivery pipeline
 applications:
 # We have reserved a name/route for your app
-- name: App-python
-  host: App-python
+- name: kunal-python
+  host: kunal-python
   domain: kunal.domain.com.sitikantha.stacktest.io
   command: python app.py
   memory: 64M
