@@ -6,3 +6,5 @@ applications:
 - name: kunal-python
   host: kunal-python
   domain: kunal.domain.com.sitikantha.stacktest.io
+  command: python app.py
+  memory: 64M
